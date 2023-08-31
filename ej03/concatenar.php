@@ -21,8 +21,13 @@
             <input type="text" placeholder="Decime más ..." name="texto-02" id="texto-02">
         </div>
         <br>
-            <button class='w3-button w3-blue' type='submit'>MAGIAAAA</button>
+        <button class='w3-button w3-blue' type='submit'>MAGIAAAA</button>
     </form>
+    <div>
+
+        <a href="/index.php">guia de ejercicios</a>
+
+    </div>
 </body>
 
 </html>

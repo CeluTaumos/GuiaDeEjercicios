@@ -18,14 +18,16 @@
         $color = $_POST["color-recibido"];
         $estado_A = semaforo_a($color);
         $estado_B = semaforo_b($color);
-        $estado_C= semaforo_c($color);
+        $estado_C = semaforo_c($color);
 
         echo "<div>SEMÁFORO FUNCION A =" . " " .  $estado_A . "</div>\n";
         echo "   <div>\nSEMÁFORO FUNCION B  =" . " " .  $estado_B . "   </div>";
         echo "   <div>\nSEMÁFORO FUNCION C  =" . " " .  $estado_C . "   </div>";
         ?>
     </div>
-
+    <div>
+        <a href="/index.php">guia de ejercicios</a>
+    </div>
 </body>
 
 </html>

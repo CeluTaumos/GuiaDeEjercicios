@@ -11,7 +11,7 @@
     <h3>Binomio Cuadrado Perfecto</h3>
     <p>Volvamos a la cq</p>
 
-    <form action="procesar-info-bicuper.php" method="post">
+    <form action="./procesar-info-bicuper.php" method="post">
         <div>
             <p>PARAMETRO UNO</p>
             <label for="parametro-uno"></label>
@@ -27,7 +27,14 @@
             <br>
             <button class='w3-button w3-blue' type='submit'>dame el resultado</button>
         </div>
+
     </form>
+
+    <div>
+
+        <a href="/index.php">guia de ejercicios</a>
+
+    </div>
 </body>
 
 </html>

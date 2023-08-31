@@ -11,10 +11,11 @@
 
     </header>
 
-    <a href="/semaforo.php">EJERCICIO 01</a>
-    <a href="/bicuper.php">EJERCICIO 02</a>
-    <a href="/concatenar.php">EJERCICIO 03</a>
-    
+    <a href="./ej01/semaforo.php">EJERCICIO 01</a>
+    <a href="./ej02/bicuper.php">EJERCICIO 02</a>
+    <a href="./ej03/concatenar.php">EJERCICIO 03</a>
+    <a href="./ej04/incrementar.php">EJERCICIO 04</a>
+    <a href="./ej05/sumatoria.php">EJERCICIO 05</a>
 
 
 

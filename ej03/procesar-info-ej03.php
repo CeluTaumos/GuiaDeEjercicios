@@ -19,6 +19,9 @@
         echo "<div>"  . $concatenacion .  "</div> "     ;
         ?>
     </div>
+    <div>
+        <a href="/index.php">guia de ejercicios</a>
+    </div>
 </body>
 
 </html>
